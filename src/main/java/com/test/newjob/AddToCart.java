@@ -43,6 +43,8 @@ public class AddToCart {
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("span.promoInfo")));
 
 		System.out.println(driver.findElement(By.cssSelector("span.promoInfo")).getText());
+		
+		System.out.println("added to cart");
 
 	}
 
