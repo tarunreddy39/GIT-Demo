@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-26T19:31:04 IST" name="Suite" finished-at="2023-05-26T19:31:04 IST" duration-ms="73">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T19:31:04 IST" name="Test" finished-at="2023-05-26T19:31:04 IST" duration-ms="73">
+      <class name="com.test.newjob.TestNGsampleTest">
+        <test-method signature="Parameter2(java.lang.String,java.lang.String)[pri:0, instance:com.test.newjob.TestNGsampleTest@6eda5c9]" started-at="2023-05-26T19:31:04 IST" name="Parameter2" finished-at="2023-05-26T19:31:04 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SSE]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Crack the JOB Interview]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Parameter2 -->
+        <test-method signature="DataProvider1Example(java.lang.String,java.lang.String)[pri:1, instance:com.test.newjob.TestNGsampleTest@6eda5c9]" started-at="2023-05-26T19:31:04 IST" name="DataProvider1Example" data-provider="RecurringData" finished-at="2023-05-26T19:31:04 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProvider1Example -->
+        <test-method signature="DataProvider1Example(java.lang.String,java.lang.String)[pri:1, instance:com.test.newjob.TestNGsampleTest@6eda5c9]" started-at="2023-05-26T19:31:04 IST" name="DataProvider1Example" data-provider="RecurringData" finished-at="2023-05-26T19:31:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProvider1Example -->
+        <test-method signature="DataProvider1Example(java.lang.String,java.lang.String)[pri:1, instance:com.test.newjob.TestNGsampleTest@6eda5c9]" started-at="2023-05-26T19:31:04 IST" name="DataProvider1Example" data-provider="RecurringData" finished-at="2023-05-26T19:31:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProvider1Example -->
+        <test-method signature="Parameter1(java.lang.String)[pri:2, instance:com.test.newjob.TestNGsampleTest@6eda5c9]" started-at="2023-05-26T19:31:04 IST" name="Parameter1" finished-at="2023-05-26T19:31:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.makemytrip.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Parameter1 -->
+        <test-method signature="HelperAttributes1()[pri:3, instance:com.test.newjob.TestNGsampleTest@6eda5c9]" started-at="2023-05-26T19:31:04 IST" name="HelperAttributes1" finished-at="2023-05-26T19:31:04 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HelperAttributes1 -->
+        <test-method signature="HelperAttributes2()[pri:4, instance:com.test.newjob.TestNGsampleTest@6eda5c9]" started-at="2023-05-26T19:31:04 IST" name="HelperAttributes2" finished-at="2023-05-26T19:31:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HelperAttributes2 -->
+      </class> <!-- com.test.newjob.TestNGsampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
